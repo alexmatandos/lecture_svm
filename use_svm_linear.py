@@ -20,4 +20,4 @@ r2_scores, accuracy_scores, confusion_matrices = kfold_template.run_kfold(data, 
 print(r2_scores)
 print(accuracy_scores)
 
-#fix the confusion matrices
+#fix the confusion matrices and accuracy scores!
